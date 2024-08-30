@@ -1,16 +1,17 @@
 # My Portfolio
 Welcome to my portfolio! This project showcases my skills, projects, and experiences as a web developer.
 
-### Weblink: [Live Website](https://rishavchanda.netlify.app)
+### Weblink: [Live Website](https://about-blond.vercel.app/)
+
 ## Some Images:
-<img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/4774dc30-1c1c-4c6c-b23b-019f3481713e"/>
-<img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/0a33349f-262d-4720-afed-7afc0dfd85a5"/>
-<img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/92f2622f-0a7f-444a-8f60-6edeae7508dd"/>
-<img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/0e984e85-cbd9-487b-bf91-166009b39319"/>
-<img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/6ad7b63b-4c51-4c98-bd21-847e5d48d559"/>
-<img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/10647898-7154-434c-84e6-edee6679ca92"/>
-
-
+<img width="450px;" src="https://res.cloudinary.com/drdjty87p/image/upload/v1724992831/Screenshot_2024-08-30_100635_nenkjy.png"/>
+<img width="450px;" src="https://res.cloudinary.com/drdjty87p/image/upload/v1724992830/Screenshot_2024-08-30_100641_akowe9.png"/>
+<img width="450px;" src="https://res.cloudinary.com/drdjty87p/image/upload/v1724992832/Screenshot_2024-08-30_100650_i59uc2.png"/>
+<img width="450px;" src="https://res.cloudinary.com/drdjty87p/image/upload/v1724992831/Screenshot_2024-08-30_100716_kxn4r1.png"/>
+<img width="450px;" src="https://res.cloudinary.com/drdjty87p/image/upload/v1724992820/Screenshot_2024-08-30_100732_nmrtkc.png"/>
+<img width="450px;" src="https://res.cloudinary.com/drdjty87p/image/upload/v1724992821/Screenshot_2024-08-30_100740_ytb43i.png"/>
+<img width="450px;" src="https://res.cloudinary.com/drdjty87p/image/upload/v1724992821/Screenshot_2024-08-30_100749_ahpy7a.png"/>
+<img width="450px;" src="https://res.cloudinary.com/drdjty87p/image/upload/v1724992821/Screenshot_2024-08-30_100757_jdslpx.png"/>
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
@@ -29,6 +30,7 @@ My Portfolio is a React.js application that serves as an online portfolio to sho
 - Skills: A list of my technical skills and proficiencies.
 - Resume: A link to download my resume.
 - Contact: A form to send me messages or inquiries.
+- You can also Chat with me in whatsapp.
 
 ## Technologies Used
 - React.js: A JavaScript library for building user interfaces.
@@ -41,11 +43,10 @@ My Portfolio is a React.js application that serves as an online portfolio to sho
 ## Installation
 To run this portfolio locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/rishavchanda/rishav-chanda-portfolio.git`
-2. Navigate to the project directory: `cd rishav-chanda-portfolio`
-3. Install the dependencies: `npm install`
-4. Start the development server: `npm start`
-5. Open your browser and visit: `http://localhost:3000`
+1. Clone the repository: `git clone `
+2. Install the dependencies: `npm install`
+3. Start the development server: `npm start`
+4. Open your browser and visit: `http://localhost:3000`
 
 ## Usage
 After installing and running the project locally, you can navigate through the different sections of the portfolio using the navigation menu. Explore the About Me section to learn more about my background and skills. Visit the Projects section to see detailed information about my projects, including descriptions and screenshots. Use the Contact section to send me a message or inquiry.
@@ -61,3 +62,5 @@ Contributions are welcome! If you'd like to contribute to My Portfolio, please f
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
+
+Thank You!! Please Provide your Feedback😍.
