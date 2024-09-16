@@ -9,7 +9,7 @@ export const Bio = {
     "I am a proactive and adaptable professional, dedicated to embracing new challenges and delivering exceptional results. With a strong commitment to continuous learning and a positive, growth-oriented mindset, I am focused on achieving excellence and making a significant impact. Ready to contribute effectively, I bring a results-driven approach and a passion for driving meaningful progress.",
   github: "https://github.com/YugandharNaik22",
   resume:
-    "https://drive.google.com/file/d/1kPIV7LIhzsIRoAozJlEP6ZZqbqI3XKWU/view?usp=sharing",
+    "https://drive.google.com/file/d/16FfKeMDDsqbZqOM1ZfouI1G9WSA6NSiw/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/anji-naik/",
   twitter: "https://x.com/Balu42284020",
   insta: "https://www.instagram.com/its_calls_me_lucky/",
@@ -567,15 +567,15 @@ export const certificates = [
     title: "AI For India 2.0",
     provider: "Skill India Digital Hub",
     date: "Aug 2023",
-    link: "https://media.licdn.com/dms/image/v2/D562DAQHTMj0_S3LuPA/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1705823679745?e=1725530400&v=beta&t=vloU-Y_kCjNP1inXLpsQ2i34Zv4ZrJ0WbhJHltr2JyA",
-    image: "https://media.licdn.com/dms/image/v2/D562DAQHTMj0_S3LuPA/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1705823679745?e=1725530400&v=beta&t=vloU-Y_kCjNP1inXLpsQ2i34Zv4ZrJ0WbhJHltr2JyA",
+    link: "https://res.cloudinary.com/drdjty87p/image/upload/v1726509211/1705823679745_psyjdy.jpg",
+    image: "https://res.cloudinary.com/drdjty87p/image/upload/v1726509211/1705823679745_psyjdy.jpg",
   },
   {
     title: "ReactJS ",
     provider: "NxtWave",
     date: "Apr 2023",
     link: "https://certificates.ccbp.in/intensive/react-js?id=CJRLPETKVF",
-    image: "https://media.licdn.com/dms/image/v2/D562DAQFkXQGEH3o5nA/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1705823778884?e=1725534000&v=beta&t=8oJLNEKsb-GQNKmVq4GkDO3bFDxldyQ8mXRQ_g2fKvM",
+    image: "https://res.cloudinary.com/drdjty87p/image/upload/v1726509211/1705823778884_olhj1c.jpg",
   },
  
   {
@@ -584,6 +584,13 @@ export const certificates = [
     date: "March 2023",
     link: "https://certificates.ccbp.in/intensive/node-js?id=DJKUXIDRWI",
     image: "https://media-content.ccbp.in/certificates/share/DJKUXIDRWI.png",
+  },
+  {
+    title: "Developer Foundations",
+    provider: "NxtWave",
+    date: "March 2023",
+    link: "https://certificates.ccbp.in/intensive/developer-foundations?id=MYLHXQYOMM",
+    image: "https://res.cloudinary.com/drdjty87p/image/upload/v1726509370/1705823859584_i1z4zh.jpg",
   },
   {
     title: "JavaScript",
